@@ -1,5 +1,5 @@
 basic:
-    name: Dibbert-Hermann
+    name: 'Lindgren, Beier and Rutherford'
     environments:
         production: 'https://google.com'
         staging: ''
